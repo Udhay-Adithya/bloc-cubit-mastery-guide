@@ -76,8 +76,8 @@ class CounterBloc extends Bloc<CounterEvent, int> {
 }
 ```
 <div style="display: flex; justify-content: space-between;">
-    <img src="bloc.png" width="2166" height="746" style="margin-right: 60px;"> 
-    <img src="cubit.png" width="2166" height="746"> 
+    <img src="bloc.png" style="margin-right: 60px;"> 
+    <img src="cubit.png"> 
 </div>
 
 ## BLoC/Cubit vs Other State Management Solutions 🤹
